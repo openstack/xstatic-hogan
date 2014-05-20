@@ -1,4 +1,4 @@
-XStatic-D3
+XStatic-Hogan
 --------------
 
 Hogan JavaScript library packaged for setuptools (easy_install) / pip.
